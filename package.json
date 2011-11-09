@@ -1,0 +1,21 @@
+{
+  "name": "superunderscore"
+  ,"description": "thin wrapper over underscore + mixins"
+  ,"private": "true"
+  ,"version": "1.0.0"
+  ,"zseattle-autobuild": "1"
+  ,"contributors": [
+    "Dave Dopson <ddopson@zynga.com>"
+  ]
+  ,"dependencies": {
+    "underscore"         : "*"
+    ,"underscore.string" : "*"
+  }
+  ,"devDependencies": {
+    "vows": "*" 
+  }
+  ,"main": "lib/superunderscore.js"
+  ,"scripts": {
+    "test": "vows --spec test/*-test.js"
+  }
+}

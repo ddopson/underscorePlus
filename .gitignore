@@ -1,0 +1,23 @@
+node_modules
+npm-debug.log
+You should edit the README.md file to describe your project.  The contents will be gracefully formatted according to the 'markdown' standard and displayed on the Github project page.
+
+[Markdown Documentation](http://daringfireball.net/projects/markdown/syntax)
+
+Below is a sample of what markdown can do:
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+* Bullet 1
+* Bullet 2
+* Bullet 3
+
+<pre><code>void main(void) {
+  printf("Hello World\n");
+}
+</code></pre>
+
+
+
