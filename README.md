@@ -1,5 +1,6 @@
 ### Overview
-"super"underscore is just a thin wrapper over underscore + mixins
+Superunderscore is just a thin wrapper over underscore + mixins
+
 Use where traditional underscore would be used...
 
 <pre><code>  var _ = require('superunderscore');
