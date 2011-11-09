@@ -9,7 +9,6 @@ Use where traditional underscore would be used...
 </code></pre>
 
 ### Underscore Documentation
-<http://documentcloud.github.com/underscore/>
 
-### Mixin: Underscore.String
-<http://github.com/epeli/underscore.string/>
+Underscore: <http://documentcloud.github.com/underscore/>
+Underscore.string mixin: <http://github.com/epeli/underscore.string/>
