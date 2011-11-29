@@ -1,5 +1,5 @@
 {
-  "name": "superunderscore"
+  "name": "superunder"
   ,"description": "thin wrapper over underscore + mixins"
   ,"private": "true"
   ,"version": "1.0.0"
