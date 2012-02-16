@@ -1,7 +1,7 @@
 var _ = require('underscore');
 var vows = require('vows');
 var assert = require('assert');
-var superunderscore = require('../lib/superunderscore');
+var superunderscore = require('../lib/underscorePlus');
 
 vows.describe('superunderscore')
 .addBatch({
