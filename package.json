@@ -9,6 +9,10 @@
     "underscore"         : "*"
     ,"underscore.string" : "*"
   }
+  ,"repository": {
+    "type": "git"
+    ,"url": "git://github.com/ddopson/underscorePlus.git"
+  }
   ,"devDependencies": {
     "vows": "*" 
   }
